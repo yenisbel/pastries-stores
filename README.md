@@ -8,6 +8,12 @@ This project has focus on the backend, with a basic setup for products checkout 
 - Use case: Store Locator - displaying locations on the map with hours, website, and phone number.
 - Checkout product using Stripe
 
+![0510Pastries](https://user-images.githubusercontent.com/7420659/81495637-8db52580-9266-11ea-9216-d92298f7c341.png)
+
+
+![0510Pastries2](https://user-images.githubusercontent.com/7420659/81495624-7413de00-9266-11ea-8021-0845e5f534e3.png)
+
+
 ## 🚀 Quick start
 
 Before steps make sure that is installed Node.js and Gatsby.js
