@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Mermelade Pastries" ,
+    "image": "./images/pastrie1.jpg",
+    "description": "Super Yummy"
+  },
+  {
+    "title": "Chocolate Pastries" ,
+    "image": "./images/pastrie4.jpg",
+    "description": "Yum Yum"
+  },
+  {
+    "title": "Vanilla Pastries" ,
+    "image": "./images/pastrie1.jpg",
+    "description": "Sweet dessert"
+  },
+  {
+    "title": "Almond Pastries" ,
+    "image": "./images/pastrie4.jpg",
+    "description": "Excellent and ready to order more"
+  }
+]
