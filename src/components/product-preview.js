@@ -12,7 +12,7 @@ const ProductPreview = ({ title, description, imageData }) => (
     </h2>
     <p>{description}</p>
     <p>
-      <Link to='/locations/all'>Put one in your bag! &rarr;</Link>
+      <Link to='/locations/california'>Find it in this store! &rarr;</Link>
     </p>
   </div>
 );

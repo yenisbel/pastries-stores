@@ -6,7 +6,7 @@
 This project has focus on the backend, with a basic setup for products checkout and  displaying info ont the map about the locations of the stores.
 
 - Use case: Store Locator - displaying locations on the map with hours, website, and phone number.
-- Checkout product using Stripe
+- Use case: List products
 
 ![0510Pastries](https://user-images.githubusercontent.com/7420659/81495637-8db52580-9266-11ea-9216-d92298f7c341.png)
 
@@ -51,5 +51,8 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     ├── package.json
     └── README.md
 
+## Things to work
 
+- Add gatsby plugin for stripe checkout
+- Complete process for sopping cart or express button checkout
 <!-- AUTO-GENERATED-CONTENT:END -->
